@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#089233</color>
+    <color name="colorPrimaryDark">#0A7027</color>
+    <color name="colorPrimaryLight">#AAE2AD</color>
+    <color name="colorChatToRow">#F1F0F0</color>
+    <color name="colorChatFromRow">#E3FFC6</color>
+</resources>
+

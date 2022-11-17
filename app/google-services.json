@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "59440420545",
+    "firebase_url": "https://irishexchange-5509a.firebaseio.com",
+    "project_id": "irishexchange-5509a",
+    "storage_bucket": "irishexchange-5509a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59440420545:android:af59d18f22fcebc6",
+        "android_client_info": {
+          "package_name": "com.davidogrady.irishexchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59440420545-mm77744mj89lvel692ehn6hpitba1t1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.davidogrady.irishexchange",
+            "certificate_hash": "74e2d217383ce55e5e6631cde4035879965e36fb"
+          }
+        },
+        {
+          "client_id": "59440420545-5d7pjf0um9jrm91v490q7o9dq72f2qvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMsRl-P89ezp5loO_GtRxN0yhi1TzebMk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59440420545-5d7pjf0um9jrm91v490q7o9dq72f2qvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_view_profile_user_chat_log_screen"
+        android:icon="@drawable/ic_edit_white_24dp"
+        app:showAsAction="never"
+        android:title="@string/nav_menu_view_profile" />
+
+    <item
+        android:id="@+id/menu_block_user_chat_log_screen"
+        android:icon="@drawable/ic_edit_white_24dp"
+        app:showAsAction="never"
+        android:title="@string/nav_menu_block_user" />
+
+    <item
+        android:id="@+id/menu_report_user_chat_log_screen"
+        android:icon="@drawable/ic_edit_white_24dp"
+        app:showAsAction="never"
+        android:title="@string/nav_menu_report_user" />
+
+</menu>
